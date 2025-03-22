@@ -67,5 +67,4 @@ This project demonstrates Power BI skills including:
 
 It serves as a portfolio project for anyone learning or showcasing Power BI expertise in **Sales Analytics**.
 
-## ⭐ Author
-[Your Name] | [LinkedIn Profile] | [GitHub Profile]
+
